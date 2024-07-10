@@ -4,11 +4,11 @@ This is a simple planetary simulation built using Python and Tkinter. The simula
 
 # Features
 
-	•	Sun and Planets Simulation: Simulates planets orbiting around a sun with user-defined parameters.
-	•	Add Planets: Add planets with a specified radius.
-	•	Start/Stop Simulation: Control the simulation’s state.
-	•	Display Planet Data: View data for each planet including radius, velocity, and acceleration.
-	•	Save Data: Save the simulation data to a text file.
-	•	Reset Simulation: Reset the simulation to its initial state.
+*	**Sun and Planets Simulation**: Simulates planets orbiting around a sun with user-defined parameters.
+*	**Add Planets**: Add planets with a specified radius.
+*	**Start/Stop Simulation**: Control the simulation’s state.
+*	**Display Planet Data**: View data for each planet including radius, velocity, and acceleration.
+*	**Save Data**: Save the simulation data to a text file.
+*	**Reset Simulation**: Reset the simulation to its initial state.
 
 ![Simulation_Run.png](Simulation_Run.png)
